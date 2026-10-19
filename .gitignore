@@ -1,0 +1,21 @@
+# LaTeX temporary and build files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.xdv
+
+# Bibliography build files
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
+# Generated thesis PDF
+/main.pdf
